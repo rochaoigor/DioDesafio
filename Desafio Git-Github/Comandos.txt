@@ -1,0 +1,19 @@
+# Comandos Básicos
+
+- git init
+
+- git add
+
+- git commit
+
+- git status
+
+-git push
+
+- LS
+
+- mkdir
+
+- git config
+
+- git clone
